@@ -11,4 +11,6 @@ Web Development Exercises [HTML, CSS, JS]
 
 **Classes, CSS Selectors** - Read up on what classes are used for and what CSS selectors are. 
 
+**E-commerce app**Create a landing page for an e-commerce website with a couple of products (3-5) with an add-to-cart facility. The product should be visible on the cart session also possible to remove products from the cart.
+
 
